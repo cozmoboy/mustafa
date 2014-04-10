@@ -1,0 +1,7 @@
+Bibliomancer Info
+
+Facebook App registration
+
+app id: 540404316076710
+secret id: 4a9bc25d6802baac5426b6f2f2e67270
+
